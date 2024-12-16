@@ -3,18 +3,11 @@
 Welcome to the **Otaku Community** project! This is a web-based platform that enables anime enthusiasts to chat in real-time across different groups and channels. Built with **Firebase** for authentication and database, it provides a seamless experience for anime fans to connect, share, and discuss their favorite topics.
 
 ---
-
-## **Features**
-- **User Authentication**: Secure sign-up and login using Firebase Authentication.
-- **Real-Time Chat**: Users can chat in real-time across multiple groups or channels.
-- **Anime Groups**: Create, join, and participate in discussions tailored to specific anime genres, series, or topics.
-- **Responsive UI**: Built using modern frameworks and responsive design for a smooth experience.
-- **Firebase Integration**: Real-time database and authentication services provided by Firebase.
-
 ---
 
 ## **Tech Stack**
-- **Frontend**: 
+- **Frontend**:
+-  
   - **TypeScript** (92.4%)
   - **JavaScript** (5.3%)
   - **HTML** (2.0%)
