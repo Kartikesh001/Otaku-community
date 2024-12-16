@@ -120,4 +120,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any queries or suggestions, feel free to connect:
 - **GitHub**: [Kartikesh001](https://github.com/Kartikesh001)
 - **Website**: [Otaku Community](https://otaku-community.netlify.app)
-
