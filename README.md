@@ -54,7 +54,7 @@ Follow these steps to set up and run the project locally:
    ```
 4. Setup Firebase:
    - Add your Firebase configuration to `firebase.ts` or the relevant file.
-   - Enable **Authentication** and **Realtime Database** in Firebase Console.
+   - Enable **E-Mail Authentication** and **Firestore Database** in Firebase Console.
 5. Start the development server:
    ```bash
    npm run dev
