@@ -1,6 +1,6 @@
 # **Otaku Community - Public Website for Anime Fans**
 
-Welcome to the **Otaku Community** project! This is a web-based platform that enables anime enthusiasts to chat in real-time across different groups and channels. Built with **Firebase** for authentication and database, it provides a seamless experience for anime fans to connect, share, and discuss their favorite topics.
+Welcome to the **Otaku Community** project! This is a web-based platform that enables anime enthusiasts to chat in real-time across different groups and channels with the help of React js. Built with **Firebase** for authentication and database, it provides a seamless experience for anime fans to connect, share, and discuss their favorite topics.
 
 ---
 
